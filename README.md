@@ -2,7 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Amer Alsuwailem</h1>
 <h3 align="center">A passionate Full-Stack web developer from Saudi Arabia</h3>
-<img align="right" alt="Coding" width="320" style="border-radius: 75px;" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+<div style="border-radius: 75px;">
+  <img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
+</div>
 
 - 🌱 I’m currently learning **React.js**
 
