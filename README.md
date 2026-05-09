@@ -12,10 +12,11 @@
 
 ### About me
 
-- 🛠️  Building **Laravel + JavaScript** apps from **Saudi Arabia 🇸🇦**
-- ⚡  Currently focused on **Livewire · Filament · Vue · Tailwind**
-- 🌱  Exploring **React / Next.js**
-- 📫  Reach me — **amer.alsuwailem5@gmail.com**
+I'm Amer — a full-stack web developer based in Saudi Arabia 🇸🇦,
+building production web apps for teams and clients around the world.
+Comfortable working in **English and Arabic** · LTR & RTL.
+
+- 📬  amer.alsuwailem5@gmail.com
 
 ---
 
@@ -77,6 +78,12 @@
 ---
 
 ### 📊 GitHub stats
+
+<!--
+  Stats cards: deploy your own copy of github-readme-stats to Vercel,
+  then replace `github-readme-stats.hackclub.dev` with YOUR-URL.vercel.app
+  in the two <img> tags below.
+-->
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=3AMERz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="3AMERz stats" />
