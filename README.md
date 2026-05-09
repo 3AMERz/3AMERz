@@ -63,6 +63,7 @@
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Laravel Forge](https://img.shields.io/badge/Laravel%20Forge-202020?style=for-the-badge&logo=laravel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
 **Tools & testing**
 
@@ -78,8 +79,8 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=3AMERz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="3AMERz stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3AMERz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="3AMERz top languages" />
+  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=3AMERz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="3AMERz stats" />
+  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=3AMERz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="3AMERz top languages" />
 </p>
 
 <p align="center">
