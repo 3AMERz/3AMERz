@@ -79,15 +79,9 @@ Comfortable working in **English and Arabic** · LTR & RTL.
 
 ### 📊 GitHub stats
 
-<!--
-  Stats cards: deploy your own copy of github-readme-stats to Vercel,
-  then replace `github-readme-stats.hackclub.dev` with YOUR-URL.vercel.app
-  in the two <img> tags below.
--->
-
 <p align="center">
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api?username=3AMERz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="3AMERz stats" />
-  <img height="180" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=3AMERz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="3AMERz top languages" />
+  <img height="180" src="https://3amerz-readme-stats.vercel.app/api?username=3AMERz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="3AMERz stats" />
+  <img height="180" src="https://3amerz-readme-stats.vercel.app/api/top-langs/?username=3AMERz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="3AMERz top languages" />
 </p>
 
 <p align="center">
